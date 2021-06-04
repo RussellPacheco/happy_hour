@@ -1,0 +1,19 @@
+{
+  "name": "happy_hour",
+  "version": "1.0.0",
+  "description": "Tells if you its happy hour",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RussellPacheco/happy_hour.git"
+  },
+  "author": "Russell Pacheco",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RussellPacheco/happy_hour/issues"
+  },
+  "homepage": "https://github.com/RussellPacheco/happy_hour#readme"
+}
